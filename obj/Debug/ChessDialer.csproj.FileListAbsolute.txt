@@ -1,0 +1,8 @@
+C:\Users\ijain\Ishan Files\Chess Project\ChessDialer\bin\Debug\ChessDialer.exe.config
+C:\Users\ijain\Ishan Files\Chess Project\ChessDialer\bin\Debug\ChessDialer.exe
+C:\Users\ijain\Ishan Files\Chess Project\ChessDialer\bin\Debug\ChessDialer.pdb
+C:\Users\ijain\Ishan Files\Chess Project\ChessDialer\obj\Debug\ChessDialer.csproj.AssemblyReference.cache
+C:\Users\ijain\Ishan Files\Chess Project\ChessDialer\obj\Debug\ChessDialer.csproj.SuggestedBindingRedirects.cache
+C:\Users\ijain\Ishan Files\Chess Project\ChessDialer\obj\Debug\ChessDialer.csproj.CoreCompileInputs.cache
+C:\Users\ijain\Ishan Files\Chess Project\ChessDialer\obj\Debug\ChessDialer.exe
+C:\Users\ijain\Ishan Files\Chess Project\ChessDialer\obj\Debug\ChessDialer.pdb
